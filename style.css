@@ -140,5 +140,5 @@ a:hover {
 	padding: 10px 15px;
 	width: 100%;
 	background: rgb(50, 50, 78);
-	color: white;
+	color: rgba(255, 255, 255, .3);
 }
