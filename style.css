@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 :root {
-    --color-bg: #1E1E2E;
-    --color-fg: #D9E0EE;
+    --color-bg: #1f2122;
+    --color-fg: #d66501;
     --color-link: #8F9191;
-    --color-link-visited: #F5C2E7;
-    --color-link-hover: #FF79C6 ;
+    --color-link-visited: #8F9191;
+    --color-link-hover: #c7c8c8 ;
 }
 
 html, body {
@@ -22,7 +22,7 @@ html, body {
 .vapor {
   border-radius: 12px;
   border-style: solid;
-  border-color: #FF79C6;
+  border-color: #EE7001;
 
 }
 
@@ -139,6 +139,6 @@ a:hover {
 	margin: 0;
 	padding: 10px 15px;
 	width: 100%;
-	background: rgb(50, 50, 78);
+	background: rgb(53, 55, 56);
 	color: rgb(150, 150, 150);
 }
