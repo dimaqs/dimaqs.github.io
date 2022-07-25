@@ -127,3 +127,19 @@ a:hover {
   font-family: 'Bebas Neue';
   font-size: 40px;
 }
+
+#box {
+	border: 0;
+	font-family: 'Verdana';
+	border-radius: 3px;
+	border-color: rgba(133, 133, 204, .1);
+	box-sizing: border-box;
+	cursor: text;
+	font-size: 12px;
+	margin: 0;
+	padding: 10px 15px;
+	transition: all .2s ease-in-out;
+	width: 100%;
+	background: rgb(50, 50, 78);
+	color: white;
+}
